@@ -4,7 +4,7 @@ created using express.js and EJS and
 generated simpsons characters
 
 # Important
-Before run the program please type "npm i" in the terminal and hit enter to install node modules 
+Before run the program please type "npm i" in the terminal and hit enter to install node modules. then type "node index.js" in the terminal to run the program.
 
 
 ![random1](https://github.com/Raleesa-Perera/Random-Character-Generator/assets/162663755/3811cbf0-8012-46df-aff9-e74ee26951fa)
