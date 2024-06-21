@@ -1,7 +1,7 @@
 # Random-Character-Generator
 
-created using express.js and EJS 
-generating simpsons characters
+created using express.js and EJS and
+generated simpsons characters
 
 
 ![random1](https://github.com/Raleesa-Perera/Random-Character-Generator/assets/162663755/3811cbf0-8012-46df-aff9-e74ee26951fa)
